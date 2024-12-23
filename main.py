@@ -2,8 +2,8 @@ from twilio.rest import Client
 from datetime import datetime, timedelta
 import time
 
-account_sid = "AC209ec194834edbc615051fb7b9b1bb7e"
-auth_token = "b7a2fb7463eca9cd2b1929dae1533fbf"
+account_sid = "xxxxxxxxxxxxxxxxxx"
+auth_token = "xxxxxxxxxxxxx"
 
 client = Client(account_sid, auth_token)
 
