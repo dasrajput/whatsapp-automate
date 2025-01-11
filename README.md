@@ -1,7 +1,7 @@
 # WhatsApp Automator (Python)
-
+---
 This is a Python application with a GUI that allows you to schedule and send WhatsApp messages. It utilizes the Twilio API for sending messages.
-
+---
 ## Features
 
 *   Schedule WhatsApp messages.
@@ -9,12 +9,12 @@ This is a Python application with a GUI that allows you to schedule and send Wha
 *   Save settings for future use (account SID, auth token, phone number).
 *   Option to implement a cache for previously sent messages (future enhancement).
 *   Customizable UI (future enhancement).
-
+---
 ## Prerequisites
 
 *   Python 3.x installed.
 *   A Twilio account with an active project (free trial available).
-
+---
 ## Installation
 
 1.  Clone this repository:
